@@ -1,4 +1,4 @@
-![](img/mc_logo.png)
+![](https://raw.githubusercontent.com/m-clark/m-clark.github.io/master/img/mc_logo.png)
 
 <br>
 
