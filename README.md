@@ -1,4 +1,4 @@
-m-clark
 
 
-[!]
+
+![]('img/mc_logo.png')
