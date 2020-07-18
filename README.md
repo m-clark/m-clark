@@ -1,4 +1,10 @@
-![](https://raw.githubusercontent.com/m-clark/m-clark.github.io/master/img/mc_sunset_2.png)
+![]()
+
+<img src="https://raw.githubusercontent.com/m-clark/m-clark.github.io/master/img/mc_logo.png" style="display:block; margin: 0 auto; width: 50%">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/m-clark/m-clark.github.io/master/img/Rlogo.svg" style="display:block; margin: 0 auto; width: 10%">
 
 <br>
 
