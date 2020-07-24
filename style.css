@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide|Roboto|Roboto+Mono|Roboto+Condensed|Lato|Lora|Fira+Sans");
+
+body {
+  background-color:  #fffff8;
+}
+
+h1 {
+  color: #ff5500;
+  font-family: Audiowide, sans;
+  text-align: center;
+}
+
+p {
+  font-family: Lato, Roboto, Arial, sans;
+  font-size: 14pt;
+}
