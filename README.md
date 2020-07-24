@@ -1,6 +1,5 @@
 ---
-title: Michael's GitHub Space
-css: style.css
+
 ---
 
 
