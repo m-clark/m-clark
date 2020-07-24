@@ -37,6 +37,8 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 [![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
 </p>
 
+---
+---
 <br>
 
 <p align="center">
