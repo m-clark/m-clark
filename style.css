@@ -14,3 +14,8 @@ p {
   font-family: Lato, Roboto, Arial, sans;
   font-size: 14pt;
 }
+
+img {
+  display:block; 
+  margin: 0 auto;
+}
