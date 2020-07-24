@@ -3,6 +3,13 @@ title: Michael's GitHub Space
 css: style.css
 ---
 
+
+
+```r 
+Michael's GitHub Space
+```
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/gp_plot.png" style="display:block; margin: 0 auto;"   width = '150%'>
 </p>
@@ -24,10 +31,7 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 -->
 
 <br>
-<br>
-<br>
 
-<div text-align = 'center'>
 <p align="center">
 
 [![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark) <span class="" style = ""></span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark)<span class="" style = ""></span> 
@@ -43,5 +47,3 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@statsdatasci&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/statsdatasci)](https://twitter.com/statsdatasci)
 
 </p>
-
-</div>
