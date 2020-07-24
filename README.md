@@ -29,7 +29,7 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 
 <div text-align = 'center'>
 <p align="center">
-[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark)[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark)[![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
+[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark) [![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark) [![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
 </p>
 
 <p align="center">
