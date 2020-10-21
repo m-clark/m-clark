@@ -49,4 +49,12 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 </p>
 
 ---
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=m-clark&layout=compact&theme=synthwave&show_icons=true)](https://github.com/m-clark/github-readme-stats)
+
+<!-- &title_color=ff002b&icon_color=00aaff&text_color=ff5500&bg_color=151515 ---> 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-clark&layout=compact&theme=synthwave" /> -->
+
+
+
 ---
