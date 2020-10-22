@@ -33,7 +33,7 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 
 <p align="center">
 
-[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark) <span class="" style = ""></span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark)<span class="" style = ""></span> 
+[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=r) <span class="" style = ""></span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 
 [![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
 </p>
 
@@ -43,8 +43,8 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 <p align="center">
 
 [![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://m-clark.github.io/)](https://m-clark.github.io) 
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/michael-clark-b475b5170/)](https://www.linkedin.com/in/michael-clark-b475b5170/) 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@statsdatasci&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/statsdatasci)](https://twitter.com/statsdatasci)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/michael-clark-b475b5170/)](https://www.linkedin.com/in/michael-clark-b475b5170/) 
 
 </p>
 
