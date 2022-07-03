@@ -23,7 +23,7 @@ Michael's GitHub Space
 <br>
 
 
-I'm Michael, and I work primarily with R doing all manner of things with statistics and data science.  Here you'll find source code for workshops, packages, posts, and various other things.
+I'm Michael, and I do all manner of things within the realm of data science.  Here you'll find source code for modeling, packages, general programming, and various other things.
 
 <!--
 <img src="https://github.com/m-clark/m-clark/raw/master/img/M.png" style="display: inline; vertical-align: top; width: auto; height: 1.2em"></img>
