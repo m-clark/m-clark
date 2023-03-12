@@ -45,7 +45,7 @@ I'm Michael, and I do all manner of things within the realm of data science.  He
 [![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://m-clark.github.io/)](https://m-clark.github.io) 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@statsdatasci&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/statsdatasci)](https://twitter.com/statsdatasci)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/michael-clark-b475b5170/)](https://www.linkedin.com/in/michael-clark-b475b5170/) 
-
+![](https://komarev.com/ghpvc/?username=m-clark&color=dc143c)  
 </p>
 
 ---
