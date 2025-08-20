@@ -61,13 +61,13 @@ Previously I worked in academia for a number of years, where I did statistical c
 ### Contact
 
 <p align="center">
-    <p align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
-        <img src="https://img.shields.io/badge/-Home-151515?style=flat&logo=homeassistant&logoColor=white" alt="Home" onclick="window.open('https://m-clark.github.io','_blank')" style="cursor:pointer;">
-        <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" onclick="window.open('mailto:stats.data.sci@gmail.com','_blank')" style="cursor:pointer;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.open('https://www.linkedin.com/in/michael-clark-b475b5170/','_blank')" style="cursor:pointer;">
-        <img src="https://img.shields.io/badge/-GitHub-151515?style=flat&logo=github&logoColor=white" alt="GitHub" onclick="window.open('https://github.com/m-clark','_blank')" style="cursor:pointer;">
-        <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" onclick="window.open('https://x.com/statsdatasci','_blank')" style="cursor:pointer;">
-        <img src="https://img.shields.io/badge/-Models%20Demystified-ff5500?style=flat&logo=bookstack&logoColor=white" alt="Models Demystified" onclick="window.open('https://m-clark.github.io/book-of-models/','_blank')" style="cursor:pointer;">
+    <p align="center">
+        <a href="https://m-clark.github.io"><img src="https://img.shields.io/badge/-Home-151515?style=flat&logo=homeassistant&logoColor=white" alt="Home"></a>
+        <a href="mailto:stats.data.sci@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="https://www.linkedin.com/in/michael-clark-b475b5170/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://github.com/m-clark"><img src="https://img.shields.io/badge/-GitHub-151515?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://x.com/statsdatasci"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+        <a href="https://m-clark.github.io/book-of-models/"><img src="https://img.shields.io/badge/-Models%20Demystified-ff5500?style=flat&logo=bookstack&logoColor=white" alt="Models Demystified"></a>
     </p>
 
     
