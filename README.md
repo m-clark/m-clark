@@ -54,7 +54,7 @@ I work primarily in Python these days, but still use R from time to time, and St
 
 I am currently a Senior Machine Learning Scientist at OneSix Solutions, where I lead modeling efforts for major firms across healthcare, real estate, and other sectors. Some recent work includes using causal inference in a Bayesian framework to optimize marketing spend, and forecasting in healthcare and insurance settings.
 
-Previously I worked in academia for a number of years, where I did statistical consulting and modeling for faculty and students, most recently at the University of Michigan. In that capacity I have also taught courses and workshops in statistics, data science, and programming. ![](https://raw.githubusercontent.com/m-clark/m-clark/master/img/M.png)
+Previously I worked in academia for a number of years, where I did statistical consulting and modeling for faculty and students, most recently at the University of Michigan. In that capacity I have also taught courses and workshops in statistics, data science, and programming. <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/M.png" alt="M" style="vertical-align:middle; height:1em;">
 
 
 
