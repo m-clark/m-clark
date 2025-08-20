@@ -29,8 +29,9 @@ I'm Michael, and I do all manner of things within the realm of data science.  He
 I just published a book in summer 2025 called Models Demystified. Check it out in print at [CRC Press](https://www.routledge.com/Models-Demystified-A-Practical-Guide-from-Linear-Regression-to-Deep-Learning/Clark-Berry/p/book/9781032582580) or on my [website](https://m-clark.github.io/book-of-models).
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/book_cover.webp" alt="Models Demystified Book Cover" style="width: 25%; height: auto;"
-         onclick="window.open('https://m-clark.github.io/book-of-models/','_blank')" style="cursor:pointer;"    >
+    <a href="https://m-clark.github.io/book-of-models/" target="_blank">
+        <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/book_cover.webp" alt="Models Demystified Book Cover" style="width: 10%; height: auto; cursor:pointer;">
+    </a>
 </p>
 
 ### Skills
