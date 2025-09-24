@@ -30,7 +30,7 @@ I just published a book in summer 2025 called Models Demystified. Check it out i
 
 <p align="center">
     <a href="https://m-clark.github.io/book-of-models/" target="_blank">
-        <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/book_cover.webp" alt="Models Demystified Book Cover" style="width: 10%; height: auto; cursor:pointer;">
+        <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/book_cover.webp" alt="Models Demystified Book Cover" style="width: 25%; height: auto; cursor:pointer;">
     </a>
 </p>
 
@@ -39,17 +39,45 @@ I just published a book in summer 2025 called Models Demystified. Check it out i
 Most of my work is in statistical modeling, machine learning, and in particular, forecasting and causal inference. I also do a lot of work with data visualization and data science in general. 
 
 
-I work primarily in Python these days, but still use R from time to time, and Stan for Bayesian modeling. Most of what you see here is R because that was what I primarily used in academia, and most of my industry work is not public. I also have experience with other tools like SQL and I work with cloud platforms like AWS, GCP, Snowflake, and Azure when projects require it. 
+I work primarily in Python these days, but still use R regularly, and Stan for Bayesian modeling on occasion. Most of what you see on GitHub is R because that was what I primarily used in academia, and most of my industry work is not public.
+
+
+<!-- <p align="center"> -->
+
+<!-- </span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 
+[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=r) <span class="" style = "">
+[![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
+</p> -->
 
 
 <p align="center">
-
-</span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 
-[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=r) <span class="" style = "">
-[![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
+  <a href="https://m-clark.github.io" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,stan" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://m-clark.github.io" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,cursor" />
+  </a>
+</p>
 
+My website, book, documents and notebooks that I create use a variety of tools, including Jupyter, Quarto, R Markdown, and LaTeX.
+
+<p align="center">
+  <a href="https://m-clark.github.io" target="_blank">
+    <!-- <img src="img/quarto.png" width="75" style="vertical-align: middle;" /> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown,jupyter,html,css,latex" />
+  </a>
+</p>
+
+I also have experience with other tools like SQL and I work with cloud platforms like AWS, GCP, Snowflake, and Azure when projects require it. 
+
+ <p align="center">
+  <a href="https://m-clark.github.io" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,snowflake,gcp,azure" />
+  </a>
+</p>
 
 ### Experience
 
@@ -77,12 +105,15 @@ Previously I worked in academia for a number of years, where I did statistical c
 
 ---
 
+<div align="center">
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=m-clark&layout=compact&theme=synthwave&show_icons=true)](https://github.com/m-clark/github-readme-stats)
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=m-clark&color=dc143c)  
+<img src="https://komarev.com/ghpvc/?username=m-clark&color=dc143c" alt="Profile views" />
 
+</div>
 
 
 
