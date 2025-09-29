@@ -42,21 +42,10 @@ Most of my work is in statistical modeling, machine learning, and in particular,
 I work primarily in Python these days, but still use R regularly, and Stan for Bayesian modeling on occasion. Most of what you see on GitHub is R because that was what I primarily used in academia, and most of my industry work is not public.
 
 
-<!-- <p align="center"> -->
-
-<!-- </span>[![Python](https://img.shields.io/badge/--ffe873?style=flat&logo=python&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=jupyter+notebook)<span class="" style = ""></span> 
-[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=r) <span class="" style = "">
-[![Stan](https://img.shields.io/badge/-Stan-b2001d?style=flat&logo=stan&link=https://m-clark.github.io/bayesian-basics/)](https://m-clark.github.io/bayesian-basics/)
-</p> -->
-
-
 <p align="center">
   <a href="https://m-clark.github.io" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,stan"  style="height: 3em; "/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://m-clark.github.io" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,cursor"  style="height: 3em;" />
   </a>
