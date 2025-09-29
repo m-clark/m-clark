@@ -52,13 +52,13 @@ I work primarily in Python these days, but still use R regularly, and Stan for B
 
 <p align="center">
   <a href="https://m-clark.github.io" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,stan" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,stan"  style="height: 3em; "/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://m-clark.github.io" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,cursor" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,cursor"  style="height: 3em;" />
   </a>
 </p>
 
@@ -66,8 +66,10 @@ My website, book, documents and notebooks that I create use a variety of tools, 
 
 <p align="center">
   <a href="https://m-clark.github.io" target="_blank">
-    <!-- <img src="img/quarto.png" width="75" style="vertical-align: middle;" /> -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown,jupyter,html,css,latex" />
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        <img src="img/quarto_crop.png" style="height: 3em; vertical-align: middle; display: inline-block;" alt="Quarto" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown,jupyter,html,css,latex" style="height: 3em; vertical-align: middle; display: inline-block;" alt="Skills" />
+    </span>
   </a>
 </p>
 
@@ -75,13 +77,16 @@ I also have experience with other tools like SQL and I work with cloud platforms
 
  <p align="center">
   <a href="https://m-clark.github.io" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,snowflake,gcp,azure" />
+      <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        <img src="img/sql.png" style="height: 1.8em; vertical-align: middle; display: inline-block;" alt="SQL" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,snowflake,gcp,azure" style="height: 3em; vertical-align: middle; display: inline-block;" alt="Cloud Skills" />
+      </span>
   </a>
 </p>
 
 ### Experience
 
-I am currently a Senior Machine Learning Scientist at OneSix Solutions, where I lead modeling efforts for major firms across healthcare, real estate, and other sectors. Some recent work includes using causal inference in a Bayesian framework to optimize marketing spend, and forecasting in healthcare and insurance settings.
+I am currently a Senior Machine Learning Scientist at [OneSix Solutions](https://www.onesixsolutions.com/), where I lead modeling efforts for major firms across healthcare, real estate, and other sectors. Some recent work includes using causal inference in a Bayesian framework to optimize marketing spend, and forecasting in healthcare and insurance settings.
 
 Previously I worked in academia for a number of years, where I did statistical consulting and modeling for faculty and students, most recently at the University of Michigan. In that capacity I have also taught courses and workshops in statistics, data science, and programming. <img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/M.png" alt="M" style="vertical-align:middle; height:1em;">
 
